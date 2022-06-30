@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ageless-aura-339316",
+  "private_key_id": "f37a0b0f39cedac3324d09b2272f3dd68274a0e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOTGaq5q9tu8Yn\nvcsjDXTPDe2DuVBF4BaCyC7MG3KCUB8THhfSf3APsC4bONlhC64F2HKYVa53w+R9\nM3pT5E/KRVDHvzvBu1Mc1Hu0kdbo9REemIzDyoL2oBW4KryYLbrsJ5JUuZP91E3Y\nP8uEVumNBiKrYFto05hBr6Me9oySWb67Tz3i3Dinp4dA4j/A9deF7CrH8hsHiHJ7\nRTaXfBT/4RJarkpWx6ZeOYn+aCnA7US8DUy6UFRcy9ylF0Fatnv7YVkkOKahv7HP\nQHBRI7D2eh4z/XtunhXNdy4LPixQ0XiiwpFGwyt5iSOdOFaXlHbXdjI1dpyh091n\noxk3mkIvAgMBAAECggEATdZu4GnE5DL2u7T1SecAXUVkihBoNM0twS+11IZAqOGB\nMA3pMB+sUQcJBnVnM6IcCZGW/1pIx2COvBypubCJ2IhZx9wkOF8tJ1IW0NU8EM6y\npGgrqI4m5tYVC9V4LjUG86akpDoXGC08J+0+JVNDsNWRTDdBliZMKvCRrBObi3YK\nqk9HSQjBtbu/aNuGpH918HPCh2oUcVmVgDBAgp8Qjf6bdE+iw7rf9vQdnsQGtGBa\n7p4EHIFwH75bF9XqZU2d1C4EJMVw6iviTRf0PdnCmmj9f0H76IbmNS/qB9OU57tN\nycDpPfdl1OKl5bEK3brFOLyOdIKKWxnPo6F5kjVmwQKBgQDtTOwtlt5cMhc2CvNr\ne778gi7itfEfMAklPWN3a9fYkxgHmsJvOCnhvs0UukBWV3ukYIpCWmXGrAuNdevC\nLmZ6gG3Mq2XDZo6DHUnsmp8HII0C3GQV0V4dj2Qcc6dI0Z1qsS6lMx47biXKlrPB\nK/MNup73SMIKwh6gd/SX58EkwQKBgQDejhKLHVYLT6btJjpzmGH/GbDGhfsAVJnN\nJ0timL0zOc+4WNjyGA0XFxIXrX/bPAZ59tdh/uorSOWXc0f8Q6cjnvMm5wNvdET6\nMjTIjRIReJbSbK2EFnaG2h8l8tKcoN+xsFj/vkSh5fUjh167qoxrs2eL/0ClLN8F\nBrx8C6ty7wKBgChhPo9DbPMjUu/PTTytAgLV5ESP0UgNVIERwStBHqmr3hrtKsji\nNb5ESYGNcAVBPbjq9Jv15fu4qv6XYlbYrneKAyUgxWBKw1VsVnf8l7MOxvAFsMJF\nrk45aD+vLnglszPEkrtpx2s1gxjGLDBi2ikr6IEL0HkkLzH/N4/hz+wBAoGAU8zB\nNLquHII4g5FibwZQ2AJvasEmOwCgDPyfyRdkHnbFPU/PGJFv1GLugBXnT8CxW5lT\njmWy/Ots7/MLhvReae4+9kYEKCJqmp7u+xkLVaLHf6JGT7c5mBtnoR1mqm107W5O\nhLW7GA8DmAYv6JAWYbNi6PcK+2cC7tyTek3Wl+cCgYAXUyL7JEmFcuJ2ruygahRC\nkGx7qkMnSJ4Itb/CokAVxsb+5WgCp5mVnkWpz0Xb+hz2NcTLOrAousMfHB6IQQ05\nORlzyT2zXApffKWvRS3GCShtLtmrxDvJKRMGp3TjDh/mAjRqusqcYcsqHEf/+ys0\nAAz/2c5n/2h3YyVmbvanEw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tts-662@ageless-aura-339316.iam.gserviceaccount.com",
+  "client_id": "116535726780511730590",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tts-662%40ageless-aura-339316.iam.gserviceaccount.com"
+}
